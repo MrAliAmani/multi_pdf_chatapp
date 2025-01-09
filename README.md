@@ -64,7 +64,7 @@ The application follows these steps to provide responses to your questions:
 Clone the repository:
 
 ```bash
-git clone https://github.com/BlakeAmory/multi_pdf_chatapp.git
+git clone https://github.com/MrAliAmani/multi_pdf_chatapp.git
 cd multi_pdf_chatapp
 ```
 
